@@ -1,4 +1,6 @@
 ## Adafruit DS3231 Precision RTC Breakout PCB
+<a href="http://www.adafruit.com/products/5188"><img src="assets/5188.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a><br/>
 <a href="http://www.adafruit.com/products/3013"><img src="assets/image.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
